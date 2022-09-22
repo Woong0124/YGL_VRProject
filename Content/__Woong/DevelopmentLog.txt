@@ -10,3 +10,23 @@ By_Woong
 
 0921 2차 작업 (1시간)
 - Pawn 트리거 테스트 및 이동 수정
+
+0922 1차 작업 (2시간)
+- Pawn 그랩 작업 (특정 물건 그랩 처리)
+- BP Door Reverse 작업
+- FireMap 작업 진행중
+
+0922 2차 작업 (2시간)
+- Static Mesh 작업 (BookCase)
+- Pawn 위,아래 시점 전환 작업
+
+0922 3차 작업 (10분)
+- Static Mesh 콜리전 생성(BookCase)
+- 중복파일 삭제
+
+0922 4차 작업 (1시간 30분)
+- BP Door Angle 작업
+- Pawn 그랩 작업 (도어 및 그랩액터)
+
+0922 5차 작업 (1시간)
+- 에셋 추가
