@@ -30,3 +30,9 @@ By_Woong
 
 0922 5차 작업 (1시간)
 - 에셋 추가
+
+0926 1차 작업 (4시간)
+- FirePawn 작업
+- Step 작업 (UMG, Actor)
+- Select 작업 (UMG, Actor)
+- Notice 작업 (UMG, Actor)
